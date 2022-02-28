@@ -1,0 +1,29 @@
+.header {
+    width: 550px;
+    margin: 100px; ;
+    margin-top: 50px;
+}
+header h1 {
+    margin: 0;
+    font-size: 80px;
+}
+header p {
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+header span {
+    border-radius: 5px;
+    border: 2px white solid;
+    padding: 10px 15px;
+    background-color: white;
+    color: rgb(20, 26, 78);
+    font-weight: 600;
+    font-size: 20px ;
+}
+header {
+    background-color: rgb(20, 26, 78);
+    color: white ;
+    display: flex;
+    text-align: start;
+}

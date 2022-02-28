@@ -1,0 +1,18 @@
+section {
+    display: flex;
+    margin: 200px 100px;
+    color: rgb(20, 26, 78);
+}
+section div {
+    text-align: start;
+    width: 200px;
+    margin: 0px 40px;
+}
+section h3 {
+    font-size: 30px;
+    margin: 0;
+}
+section p {
+    margin: 5px 0;
+    font-size: 20px;
+}
